@@ -11,8 +11,14 @@ ____
 
 <img src="https://raw.githubusercontent.com/Alioune-Badara-FAM/Scroll-Smooth-JS/screenshots/screenshots/Le%20Designer%20du%20Web.png" alt=""  height="625">
 
-________
 
 ## Ma version :
 
 <img src="https://raw.githubusercontent.com/Alioune-Badara-FAM/Scroll-Smooth-JS/screenshots/screenshots/me.png" height="625">
+
+________
+
+## Demo :
+
+[Lien de la démonstration](https://alioune-badara-fam.github.io/Scroll-Smooth-JS/)
+
