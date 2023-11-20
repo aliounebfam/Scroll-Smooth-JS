@@ -18,7 +18,6 @@ ____
 
 ________
 
-## Demo :
+## Demonstration 🚀:
 
-[Lien de la démonstration](https://alioune-badara-fam.github.io/Scroll-Smooth-JS/)
-
+[Lien de la démonstration](https://aliounebfam.github.io/Scroll-Smooth-JS/)
